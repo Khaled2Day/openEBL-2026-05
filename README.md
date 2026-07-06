@@ -79,11 +79,25 @@ The verification and merging is performed using GitHub actions. The repository i
 
 
 ## Measurement data
-Will be added here.
+[Data Set](https://qdot-nexus.phas.ubc.ca:25683/s/pNDxN8o6Ktqq5Kt)
 
 ## SEM images of the fabricated designs
 
-Will be added here.
+Scanning electron microscope images of some of the devices from this fabrication run were taken and are available in the "SEMs" folder and shown here:
+
+
+![SEM image – 1x2 splitter](./SEMs/UL_001.jpg)
+
+![SEM image – subwavelength grating waveguides](./SEMs/UL_002.jpg)
+
+![SEM image – Bragg grating](./SEMs/UL_011.jpg)
+
+![SEM image – Bragg grating contra directional coupler](./SEMs/UL_010.jpg)
+
+
+![SEM image – lithgraphy test structure](./SEMs/UL_005.jpg)
+
+![SEM image – lithgraphy test structure](./SEMs/UL_008.jpg)
 
 ## Merged Layout File
 
@@ -91,5 +105,5 @@ Will be added here.
 
 Click on the following link to download the EBeam.oas merged layout file:
 <!-- start-link -->
-https://github.com/SiEPIC/openEBL-2026-05/actions/runs/25561215457/artifacts/6881453398
+https://github.com/SiEPIC/openEBL-2026-05/actions/runs/26043657722/artifacts/7062298817
 <!-- end-link -->
